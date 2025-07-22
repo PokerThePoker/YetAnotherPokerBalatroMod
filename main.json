@@ -1,16 +1,16 @@
 {
-	"id": "nothing",
-	"name": "Nothing",
-	"display_name": "Nothing",
+	"id": "yetanotherpokerbalatromod",
+	"name": "Yet Another Poker Balatro Mod",
+	"display_name": "Yet Another Poker Balatro Mod",
 	"author": [
-		"Nobody"
+		"Poker The Poker"
 	],
-	"description": "Literally just contains Joker.",
-	"prefix": "not",
+	"description": "idk",
+	"prefix": "yap",
 	"main_file": "main.lua",
 	"priority": 0,
-	"badge_colour": "000000",
-	"badge_text_colour": "FFFFFF",
+	"badge_colour": "123456",
+	"badge_text_colour": "ABCDEF",
 	"version": "0.0.0",
 	"dependencies": []
 }
